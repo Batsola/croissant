@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(199, 174, 61);
+  margin: 0 auto;
+ padding: 0 60px ;
+}
+h1,
+p {
+  text-align: center;
+  padding-top: 20px;
+ 
+}
+.links {
+  color: rgb(91, 3, 253);
+  text-align: center;
+}
+a{
+  padding: 10px;
+  color: rgb(20, 144, 226);
+  margin: 0 auto;}
+.croissant-pic {
+  max-width: 100%;
+  margin: 30px auto;
+  border-radius: 10px;
+  display: block;
+}
+.email {
+  color: blue;
+}
